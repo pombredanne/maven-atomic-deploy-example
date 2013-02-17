@@ -9,8 +9,8 @@
 	</parent>
 
 	<artifactId>post-deployer-lib</artifactId>
-	<name>post-deployer</name>
-	<description>post-deployer - "atomic deployer"</description>
+	<name>post-deployer-lib</name>
+	<description>post-deployer-lib - "atomic deployer"</description>
 
 	<properties>
 		<gmaven-version>1.3</gmaven-version>
